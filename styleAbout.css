@@ -63,9 +63,9 @@ body{
     border-color:#000
     border-style: dashed;
     width:70%;
-    margin-bottom: 50px;
-    font-size:12px;
-    border: 8px dotted #ccc;
+    margin-bottom: 3vw;
+    font-size:0.6vw;
+    border: 0.5vw dotted #ccc;
     color:#fff;
 }
 
