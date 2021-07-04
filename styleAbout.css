@@ -49,7 +49,7 @@ body{
 #navbar a{  
 	color:#fff;
 	text-decoration: none;
-	font-size: 0.9vw;
+	font-size: 1vw;
 }
 
 
@@ -64,7 +64,7 @@ body{
     border-style: dashed;
     width:70%;
     margin-bottom: 3vw;
-    font-size:0.6vw;
+    font-size:1vw;
     border: 0.5vw dotted #ccc;
     color:#fff;
 }

@@ -15,7 +15,7 @@ body {
 }
 
 .icon {
-    margin-top:20vw;
+    margin-top:40vh;
     animation-name: bounce;
     animation-duration: 1s;
     animation-direction: alternate;
@@ -24,8 +24,8 @@ body {
 
 
 @keyframes bounce {
-    from { margin-top: 20vw;}
-    to {margin-top: 15vw;}
+    from { margin-top: 40vh;}
+    to {margin-top: 30vh;}
 } 
 
 @keyframes appear {
